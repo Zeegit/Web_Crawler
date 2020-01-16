@@ -8,3 +8,4 @@ public class ApplicationRunner {
         new WebCrawler();
     }
 }
+

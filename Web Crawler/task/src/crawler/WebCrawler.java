@@ -462,6 +462,5 @@ public class WebCrawler extends JFrame {
         long sec = (workTime - min * 60000L) / 1000L;
         long ms = workTime - min * 60000L - sec * 1000L;
         return min + ":" + sec;
-        //min + " min. " + sec + " sec. " + ms + " ms.";
     }
 }
